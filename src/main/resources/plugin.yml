@@ -1,0 +1,4 @@
+name: Gdańskcraft Spigot plugin
+main: pl.sebcel.minecraft.gdanskcraft.SpigotPlugin
+version: 1.0.0
+author: Sebastian Celejewski
